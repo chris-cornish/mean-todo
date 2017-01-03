@@ -12,6 +12,12 @@ router.get('/todos', function(req, res) {
   res.json({todos:[]});
 });
 
+// TODO: Add POST route to create new entries
+
+// TODO: Add PUT route to update existing entries
+
+// TODO: Add DELETE route to delete entries
+
 app.use('/api', router);
 
 app.listen(3000, function() {
