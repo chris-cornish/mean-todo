@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/chris-cornish/mean-todo#readme",
   "dependencies": {
+    "angular": "^1.6.1",
     "express": "4.14.0"
+  },
+  "devDependencies": {
+    "webpack": "1.14.0"
   }
 }
