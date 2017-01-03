@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chris-cornish/mean-todo/issues"
   },
-  "homepage": "https://github.com/chris-cornish/mean-todo#readme"
+  "homepage": "https://github.com/chris-cornish/mean-todo#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  }
 }
