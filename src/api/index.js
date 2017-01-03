@@ -1,6 +1,6 @@
 'use strict';
 
-var express = require('exress');
+var express = require('express');
 
 var router = express.Router();
 
