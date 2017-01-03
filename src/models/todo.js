@@ -12,4 +12,4 @@ var mongoose = require('mongoose');
 
 var model = mongoose.model('Todo', todoSchema);
 
-module.exports = model;
+module.exports = router;
